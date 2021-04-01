@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SKTD" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <KTD_OBJECT>
+    <NAME>ZTEST_KNOWLEDGE_DOC</NAME>
+    <TYPE>GENERAL_TEXT</TYPE>
+    <SOURCE_CONTENT_TYPE>02</SOURCE_CONTENT_TYPE>
+    <REF_OBJ_TYPE>DEVC</REF_OBJ_TYPE>
+    <REF_OBJ_NAME>ZTEST</REF_OBJ_NAME>
+    <ABAP_LANGUAGE_VERSION>X</ABAP_LANGUAGE_VERSION>
+    <CONTENT>
+     <item>
+      <NAME>ZTEST_KNOWLEDGE_DOC</NAME>
+      <LANGU>E</LANGU>
+      <COMPONENT_UUID>Aq6yQNAuHtuk3G+QJNvPXA==</COMPONENT_UUID>
+      <SOURCE_CONTENT>IyBUaXRsZSBnb2VzIGhlcmUKCioqKlRlc3RpbmcqKiogX2RpZmZlcmVudF8gKipzdHlsaW5nKiog
+Km9wdGlvbnMqCgpgV1JJVEU6ICdIZWxsbyBXb3JsZCAhJ2AKCltTZWNyZXQgdG8gYmVjb21lIGEg
+a2lja2FzcyBkZXZlbG9wZXJdKGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZFF3NHc5
+V2dYY1Ep</SOURCE_CONTENT>
+     </item>
+    </CONTENT>
+   </KTD_OBJECT>
+  </asx:values>
+ </asx:abap>
+</abapGit>
